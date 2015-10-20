@@ -1,0 +1,10 @@
+body{
+	background:pink;
+	font-size: 18px;
+	color:grey;
+	font-family: 'Overlock', cursive;
+	padding:10px;
+}
+#two{
+	display:none;
+}
